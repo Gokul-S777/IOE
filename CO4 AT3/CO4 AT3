@@ -1,0 +1,1 @@
+This experiment focuses on designing a secure university campus network using Cisco Packet Tracer. Different departments are separated into network segments, and ACL-based firewall rules are used to allow authorized communication and block unauthorized access. The network is then tested to verify the security policy.
